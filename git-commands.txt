@@ -9,3 +9,4 @@ gir commit -m "message you want to include"
 git log
 git diff <filename>
 otra linea
+ponemos otra linea al final
